@@ -1,3 +1,3 @@
 # PBE-UNet
-The pytorch code of "PBE-UNet: Progressive Boundary Enhancement U-Net For Ultrasounf Segmentation"
+The pytorch code of "PBE-UNet: A lighte weight Progressive Boundary-Enhanced U-Net with Scale-Aware Aggregation for Ultrasound Image Segmentation"
 Code will be upload when our paper is acceptted.
